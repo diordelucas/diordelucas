@@ -1,7 +1,7 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="https://github.com/diordelucas/diordelucas/blob/main/banner.png" alt="Banner Diorde" width="100%" />
-</p>
+<!-- BANNER COM EFEITO GRADIENTE -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=👋+Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot+%7C+React;Transformando+ideias+em+código&font=Fira+Code&center=true&width=600&height=100&color=6366F1&vCenter=true" alt="Welcome Banner" />
+</div>
 
 <!-- HEADER -->
 <div align="center">
@@ -16,14 +16,29 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-manganelli/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diordelucas)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgelucas.manganelli@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-6366F1?style=for-the-badge&logo=web&logoColor=white)](https://github.com/diordelucas)
 
 </div>
 
----
+<hr style="border: 2px solid #6366F1; margin: 30px 0;">
+
+<!-- STATS DINÂMICAS -->
+<div align="center">
+  <h2>📊 Estatísticas GitHub</h2>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diordelucas&show_icons=true&theme=midnight&hide_border=false&bg_color=0d1117&title_color=6366F1&text_color=58a6ff&icon_color=6366F1&border_color=30363d&count_private=true&include_all_commits=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diordelucas&layout=compact&theme=midnight&hide_border=false&bg_color=0d1117&title_color=6366F1&text_color=58a6ff&border_color=30363d)
+  
+  <!-- STREAK STATS -->
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diordelucas&theme=midnight&background=0d1117&border=30363d&currStreakNum=6366F1&sideNums=58a6ff)
+</div>
+
+<hr style="border: 2px solid #6366F1; margin: 30px 0;">
 
 ## 🎯 Sobre mim
 
-Desenvolvedor apaixonado por criar soluções escaláveis e inteligentes que resolvem problemas reais de negócio. Atuo em duas frentes: desenvolvedor na **Suco Prat's** com expertise em **TOTVS Fluig**, **n8n** e integrações complexas; e sócio-desenvolvedor na **MPG Sistemas** junto com Matheus e Pedro, desenvolvendo soluções web customizadas em **Java/Spring Boot**.
+Desenvolvedor apaixonado por criar soluções escaláveis e inteligentes que resolvem problemas reais de negócio. Atuo em duas frentes: desenvolvedor na **Suco Prat's** com expertise em **TOTVS Fluig**, **n8n** e arquitetura de soluções empresariais, e como sócio-desenvolvedor na **MPG Sistemas** com foco em desenvolvimento web full stack.
 
 Tenho experiência em arquitetura de software, BPM, integração de sistemas heterogêneos, pipelines de dados e resolução de problemas em ambientes críticos.
 
@@ -32,7 +47,7 @@ Tenho experiência em arquitetura de software, BPM, integração de sistemas het
 ## 💼 Experiência Profissional
 
 ### **Suco Prat's** | Desenvolvedor de Software
-Desenvolvimento de soluções integradas com foco em automação de processos críticos na operação agrícola e industrial. Especialização em **TOTVS Fluig**, **n8n** e integração com sistemas legados (Protheus, PIMS).
+Desenvolvimento de soluções integradas com foco em automação de processos críticos na operação agrícola e industrial. Especialização em **TOTVS Fluig**, **n8n** e integração com sistemas heterogêneos.
 
 #### 📱 Projetos TOTVS Fluig
 
@@ -94,11 +109,11 @@ Parceria em desenvolvimento de soluções web e integração de sistemas. Atuaç
 
 | Categoria | Tecnologias |
 |-----------|-------------|
-| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **BPM & Integração** | ![TOTVS Fluig](https://img.shields.io/badge/TOTVS%20Fluig-0066CC?style=for-the-badge) ![n8n](https://img.shields.io/badge/n8n-EB6607?style=for-the-badge&logo=n8n&logoColor=white) ![Protheus](https://img.shields.io/badge/Protheus-00A0D2?style=for-the-badge) ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge) |
+| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+| **BPM & Integração** | ![TOTVS Fluig](https://img.shields.io/badge/TOTVS%20Fluig-0066CC?style=for-the-badge) ![n8n](https://img.shields.io/badge/n8n-EB6607?style=for-the-badge&logo=n8n&logoColor=white) ![APIs REST](https://img.shields.io/badge/REST%20APIs-6366F1?style=for-the-badge) |
 | **Suporte & Comunicação** | ![Chatwoot](https://img.shields.io/badge/Chatwoot-3B4A5C?style=for-the-badge) ![GLPI](https://img.shields.io/badge/GLPI-D32F2F?style=for-the-badge) ![WhatsApp API](https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) |
-| **Ferramentas & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| **Ferramentas & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 </div>
 
@@ -113,18 +128,6 @@ Sistema completo de gerenciamento com módulos de pedidos, estoque, clientes e c
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diordelucas&show_icons=true&theme=nord&hide_border=true&locale=pt-br)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diordelucas&layout=compact&theme=nord&hide_border=true&locale=pt-br)
-
-</div>
-
----
-
 ## 🎓 Formação
 
 - **Bacharelado em Sistemas de Informação** – UNIPAR (Conclusão: 2026)
@@ -136,9 +139,23 @@ Sistema completo de gerenciamento com módulos de pedidos, estoque, clientes e c
 
 Sempre aberto a colaborações, aprendizado e novas oportunidades!
 
+<div align="center">
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/george-manganelli/) – Vamos conversar!
 - 📧 [Email](mailto:georgelucas.manganelli@gmail.com) – Envie uma mensagem
 - 🐙 [GitHub](https://github.com/diordelucas) – Veja meus projetos
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Atividade Recente
+
+![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=diordelucas&theme=github-dark&bg_color=0d1117&color=6366F1&line=6366F1&point=58a6ff&hide_border=true)
+
+</div>
 
 ---
 
@@ -147,5 +164,7 @@ Sempre aberto a colaborações, aprendizado e novas oportunidades!
 **Desenvolvido com ☕ por Diorde Lucas**
 
 *"O melhor código é aquele que resolve o problema real do negócio"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=diordelucas&color=6366F1&style=flat-square)
 
 </div>
