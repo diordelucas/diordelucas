@@ -1,6 +1,6 @@
 <!-- BANNER COM EFEITO GRADIENTE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=👋+Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot+%7C+React;Transformando+ideias+em+código&font=Fira+Code&center=true&width=600&height=100&color=6366F1&vCenter=true" alt="Welcome Banner" />
+  <img src="./banner.svg" alt="Welcome Banner" width="600" />
 </div>
 
 <!-- HEADER -->
@@ -26,9 +26,9 @@
 <div align="center">
   <h2>📊 Estatísticas GitHub</h2>
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diordelucas&show_icons=true&theme=midnight&hide_border=false&bg_color=0d1117&title_color=6366F1&text_color=58a6ff&icon_color=6366F1&border_color=30363d&count_private=true&include_all_commits=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diordelucas&layout=compact&theme=midnight&hide_border=false&bg_color=0d1117&title_color=6366F1&text_color=58a6ff&border_color=30363d)
+  ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=diordelucas&show_icons=true&theme=midnight-            purple&hide_border=false&bg_color=0d1117&title_color=6366F1&text_color=58a6ff&icon_color=6366F1&border_color=30363d)
+
+  ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=diordelucas&layout=compact&theme=midnight-purple&hide_border=false&bg_color=0d1117&title_color=6366F1&text_color=58a6ff&border_color=30363d)
   
   <!-- STREAK STATS -->
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diordelucas&theme=midnight&background=0d1117&border=30363d&currStreakNum=6366F1&sideNums=58a6ff)
