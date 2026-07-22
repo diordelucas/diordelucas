@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="100" viewBox="0 0 600 100" role="img" aria-label="Bem-vindo ao meu GitHub - Desenvolvedor Full Stack - Java, Spring Boot, React">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#58A6FF"/>
+    </linearGradient>
+
+    <clipPath id="clip0">
+      <rect x="141.5" y="18" height="64" width="0">
+        <animate attributeName="width" dur="16s" repeatCount="indefinite"
+                 keyTimes="0;0.001;0.125;0.2;0.25;1" values="0;0;317;317;0;0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip1">
+      <rect x="141.5" y="18" height="64" width="0">
+        <animate attributeName="width" dur="16s" repeatCount="indefinite"
+                 keyTimes="0;0.25;0.375;0.45;0.5;1" values="0;0;317;317;0;0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip2">
+      <rect x="128.5" y="18" height="64" width="0">
+        <animate attributeName="width" dur="16s" repeatCount="indefinite"
+                 keyTimes="0;0.5;0.625;0.7;0.75;1" values="0;0;343;343;0;0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip3">
+      <rect x="102" y="18" height="64" width="0">
+        <animate attributeName="width" dur="16s" repeatCount="indefinite"
+                 keyTimes="0;0.75;0.875;0.95;0.99;1" values="0;0;396;396;0;0"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <style>
+    .line {
+      font-family: 'Fira Code', 'JetBrains Mono', 'Cascadia Code', 'Courier New', monospace;
+      font-size: 22px;
+      font-weight: 600;
+      fill: url(#grad);
+      white-space: pre;
+    }
+    .caret { fill: #58A6FF; }
+  </style>
+
+  <!-- linha 1 -->
+  <g clip-path="url(#clip0)">
+    <text class="line" x="141.5" y="58">Bem-vindo ao meu GitHub!</text>
+  </g>
+  <rect class="caret" y="40" width="3" height="24" x="141.5" opacity="0">
+    <animate attributeName="x" dur="16s" repeatCount="indefinite"
+             keyTimes="0;0.001;0.125;0.2;0.25;1" values="141.5;141.5;458.5;458.5;141.5;141.5"/>
+    <animate attributeName="opacity" dur="16s" repeatCount="indefinite"
+             keyTimes="0;0.001;0.125;0.2;0.25;1" values="0;1;1;1;0;0"/>
+    <animate attributeName="fill-opacity" dur="1s" repeatCount="indefinite"
+             keyTimes="0;0.49;0.5;1" values="1;1;0;0"/>
+  </rect>
+
+  <!-- linha 2 -->
+  <g clip-path="url(#clip1)">
+    <text class="line" x="141.5" y="58">Desenvolvedor Full Stack</text>
+  </g>
+  <rect class="caret" y="40" width="3" height="24" x="141.5" opacity="0">
+    <animate attributeName="x" dur="16s" repeatCount="indefinite"
+             keyTimes="0;0.25;0.375;0.45;0.5;1" values="141.5;141.5;458.5;458.5;141.5;141.5"/>
+    <animate attributeName="opacity" dur="16s" repeatCount="indefinite"
+             keyTimes="0;0.25;0.375;0.45;0.5;1" values="0;1;1;1;0;0"/>
+    <animate attributeName="fill-opacity" dur="1s" repeatCount="indefinite"
+             keyTimes="0;0.49;0.5;1" values="1;1;0;0"/>
+  </rect>
+
+  <!-- linha 3 -->
+  <g clip-path="url(#clip2)">
+    <text class="line" x="128.5" y="58">Java | Spring Boot | React</text>
+  </g>
+  <rect class="caret" y="40" width="3" height="24" x="128.5" opacity="0">
+    <animate attributeName="x" dur="16s" repeatCount="indefinite"
+             keyTimes="0;0.5;0.625;0.7;0.75;1" values="128.5;128.5;471.5;471.5;128.5;128.5"/>
+    <animate attributeName="opacity" dur="16s" repeatCount="indefinite"
+             keyTimes="0;0.5;0.625;0.7;0.75;1" values="0;1;1;1;0;0"/>
+    <animate attributeName="fill-opacity" dur="1s" repeatCount="indefinite"
+             keyTimes="0;0.49;0.5;1" values="1;1;0;0"/>
+  </rect>
+
+  <!-- linha 4 -->
+  <g clip-path="url(#clip3)">
+    <text class="line" x="102" y="58">Transformando ideias em código</text>
+  </g>
+  <rect class="caret" y="40" width="3" height="24" x="102" opacity="0">
+    <animate attributeName="x" dur="16s" repeatCount="indefinite"
+             keyTimes="0;0.75;0.875;0.95;0.99;1" values="102;102;498;498;102;102"/>
+    <animate attributeName="opacity" dur="16s" repeatCount="indefinite"
+             keyTimes="0;0.75;0.875;0.95;0.99;1" values="0;1;1;1;0;0"/>
+    <animate attributeName="fill-opacity" dur="1s" repeatCount="indefinite"
+             keyTimes="0;0.49;0.5;1" values="1;1;0;0"/>
+  </rect>
+</svg>
