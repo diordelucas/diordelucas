@@ -26,7 +26,7 @@
 <div align="center">
   <h2>📊 Estatísticas GitHub</h2>
   
-  ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=diordelucas&show_icons=true&theme=midnight-            purple&hide_border=false&bg_color=0d1117&title_color=6366F1&text_color=58a6ff&icon_color=6366F1&border_color=30363d)
+  ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=diordelucas&show_icons=true&theme=midnight-purple&hide_border=false&bg_color=0d1117&title_color=6366F1&text_color=58a6ff&icon_color=6366F1&border_color=30363d)
 
   ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=diordelucas&layout=compact&theme=midnight-purple&hide_border=false&bg_color=0d1117&title_color=6366F1&text_color=58a6ff&border_color=30363d)
   
