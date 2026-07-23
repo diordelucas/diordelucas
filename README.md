@@ -51,25 +51,25 @@ Desenvolvimento de soluções integradas com foco em automação de processos cr
 
 #### 📱 Projetos TOTVS Fluig
 
-**📓 Caderno Digital (frmpimagro0004)**
+**📓 Caderno Digital**
 - Formulário mobile do Departamento Agrícola para registro de atividades e ocorrências de campo
 - Organização hierárquica por Agrupamento de Fazendas e Safra
-- Gestão de status de ocorrências (Não / Sim / Cancelado / Prorrogado) com data de resolução e aviso visual de atraso
+- Gestão de status de ocorrências (Não Solucionado / Solucionado / Cancelado / Prorrogado) com data de resolução e aviso visual de atraso
 - Captura de evidência fotográfica via câmera (web e mobile)
 - Identificação automática do usuário com fallback web
 - Filtros dinâmicos por status e tipo de atividade
-- Integração backend via workflow (wflpimagro0004)
+- Integração backend via workflow 
 
-**👷 Apontamento Manual (frmpimagro0009)**
+**👷 Apontamento Manual**
 - Formulário de Apontamento Diário de Atividade para equipes de campo
 - Tabela pai-filho por funcionário com controle de presença/ausência
 - Suporte a motivos de ausência (Atestado, Falta, Férias, etc.) com anexo de evidência fotográfica
 - Registro completo: Fazenda, Operação, Centro de Custo, horas (com cálculo automático)
 - Preenchimento em massa para equipes grandes
 - Funciona online e offline (com alternativa de equipe para modo offline)
-- **Integração PIMS MC**: Envia dados via workflow para tabelas AU_APTO_TMP / AU_APTO_MAN_TMP
+- **Integração PIMS MC**: Envia dados via workflow para tabela temporária, para validação e integração com a tabela oficial
 
-**🧪 Laboratório de Microbiologia (frm_lab_microbiologia)**
+**🧪 Laboratório de Microbiologia**
 - Formulário único que unifica três análises antes separadas: Acompanhamento de Processo, Tanque Farm e Produto Final
 - Seleção dinâmica de campos baseada no tipo de análise (ACOMP_PROC / TANQUE_FARM / PRODUTO_FINAL)
 - Integração com Protheus (SB1) para listas de domínio com fallback automático
